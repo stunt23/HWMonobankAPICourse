@@ -1,2 +1,2 @@
 # HWMonobankAPICourse
-This app will show you the current Exchage Rata UAH/USD from the Monobank.
+This app will show you the current Exchage Rate UAH/USD from the Monobank.
