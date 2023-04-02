@@ -1,13 +1,14 @@
 package org.example;
 
 public class CurrencyPairCourse {
-    private CurrencyPairCourse(){};
     private int currencyCodeA;
     private int currencyCodeB;
     private long date;
     private double rateSell;
     private double rateBuy;
     private double rateCross;
+    
+    private CurrencyPairCourse(){};
 
     public int getCurrencyCodeA() {
         return currencyCodeA;
